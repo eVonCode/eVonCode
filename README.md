@@ -12,6 +12,7 @@
 - Godot Engine
 
 ## What I'm Currently Learning
+- Godot Engine
 - Game Development
 
 ## Connect with Me
