@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, Evon here!
 
-<!--
-**eVonCode/eVonCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 IT student at Davao del Norte State College
+- 📍 Based in Davao, Philippines
+- 💡 Interested in UI/UX Design, 3d Modeling, and Game Development
 
-Here are some ideas to get you started:
+## Skills
+- Photoshop
+- Figma
+- Blender
+- Godot Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Currently Learning
+- Game Development
+
+## Connect with Me
+- 📧 Email: granaderos.evon@dnsc.edu.ph
+- 🔗 Facebook: Evon Granaderos
